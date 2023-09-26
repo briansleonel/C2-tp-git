@@ -1,0 +1,2 @@
+> Se hace el primer commit
+    - No está en el repositorio remoto porque simplemente se hace un commit en local
