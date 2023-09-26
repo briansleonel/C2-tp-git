@@ -5,3 +5,12 @@
     - No se refleja en el repositorio local porque solamente se trabaja en el repositorio remoto
 
 > Tranatando de generar el conflicto en local
+> Tratando de generar un conflicto
+
+> Se generó un conflicto, y al hacer un git pull puedo traer los cambios en ambos repositorios y ver los conflictos. En este caso el conflicto se muestra:
+
+- <<<<<<< HEAD
+> Tranatando de generar el conflicto en local
+=======
+> Tratando de generar un conflicto
+>>>>>>> 26a5dbb70a99820096ae887834baab2fa731aca7
