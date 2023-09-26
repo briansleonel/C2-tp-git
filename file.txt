@@ -3,3 +3,5 @@
 
 > Se modifica en la interfaze web de GitHub
     - No se refleja en el repositorio local porque solamente se trabaja en el repositorio remoto
+
+> Tratando de generar un conflicto
